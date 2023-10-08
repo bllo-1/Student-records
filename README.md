@@ -16,3 +16,12 @@ This project is a Student Records Management System created using Django and Dja
 - Edit and update student information.
 - Delete student records.
 
+
+<h2>Screenshot of the projects 📸</h2>
+<div style="text-align: center;">
+<h1>Student Records : 🏡</h1>
+<img src="./stuInf.png">
+<h1>Student Information : 🏡</h1>
+<img src="./card.png">
+<h1>Add Student: 🏡</h1>
+<img src="./add.png">
